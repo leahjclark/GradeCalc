@@ -1,1 +1,1 @@
-# GradeCalculator
+# GradeCalc
