@@ -1,0 +1,12 @@
+Package: GradeCalc
+Title: Calculates User's Course Grade
+Version: 0.0.0.9000
+Authors@R: 
+    person("Leah", "Clark", , "ljclark@usf.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Multiple functions relating to course grade calculations. It can calculate course grade using category names, grades for each category, and weight. It can also take in a dataframe with all assignments, including their categories, grades, and weight. Additionally, it is able to calculate the necessary grade on one incomplete category to receive the user's desired grade, which will be inputted along with the current overall grade in the course. This package should help students be able to quickly review their grades and plan for necessary study amounts.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
